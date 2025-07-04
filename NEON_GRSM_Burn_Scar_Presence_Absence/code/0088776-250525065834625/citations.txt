@@ -1,0 +1,9 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+The International Barcode of Life Consortium (2024). International Barcode of Life project (iBOL). Occurrence dataset https://doi.org/10.15468/inygc6 accessed via GBIF.org on 2025-07-03.
+Gross J, Oboyski P (2025). Essig Museum of Entomology. Version 121.397. Berkeley Natural History Museums. Occurrence dataset https://doi.org/10.15468/0saucj accessed via GBIF.org on 2025-07-03.
+National Ecological Observatory Network (2025). NEON Biorepository Carabid Collection (Pinned Vouchers). Occurrence dataset https://doi.org/10.15468/zyx3fn accessed via GBIF.org on 2025-07-03.
+National Ecological Observatory Network (2025). NEON Biorepository Carabid Collection (Trap Sorting). Occurrence dataset https://doi.org/10.15468/mjtykf accessed via GBIF.org on 2025-07-03.
+National Ecological Observatory Network (2025). NEON Domain Carabid Teaching Collection. Occurrence dataset https://doi.org/10.15468/t6ctuu accessed via GBIF.org on 2025-07-03.
+National Ecological Observatory Network (2025). NEON Biorepository Carabid Collection (Archive Pooling). Occurrence dataset https://doi.org/10.15468/xicbza accessed via GBIF.org on 2025-07-03.
+iNaturalist contributors, iNaturalist (2025). iNaturalist Research-grade Observations. iNaturalist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2025-07-03.
+National Ecological Observatory Network (2025). NEON Biorepository Carabid Collection (DNA Extracts). Occurrence dataset https://doi.org/10.15468/smm5vp accessed via GBIF.org on 2025-07-03.
