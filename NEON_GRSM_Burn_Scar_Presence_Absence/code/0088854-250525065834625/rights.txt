@@ -1,8 +1,0 @@
-Dataset: NEON Biorepository Carabid Collection (Pinned Vouchers) 
-Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
-Dataset: NEON Biorepository Carabid Collection (Trap Sorting) 
-Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
-Dataset: NEON Domain Carabid Teaching Collection 
-Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
-Dataset: NEON Biorepository Carabid Collection (Archive Pooling) 
-Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode

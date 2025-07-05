@@ -1,2 +1,0 @@
-gbifID	type	format	identifier	references	title	description	source	audience	created	creator	contributor	publisher	license	rightsHolder
-2571302031	StillImage	image/jpeg	https://biorepo.neonscience.org/imglib/neon/NEON_CARC-PV/NEONBET/NEON.BET.D07.002705_dorsal_1x._lg.jpg							Jordan Patterson			http://creativecommons.org/publicdomain/zero/1.0/	Carabid Collection (Pinned Vouchers) (NEON-CARC-PV)
